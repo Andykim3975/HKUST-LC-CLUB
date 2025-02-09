@@ -4,19 +4,3 @@ header {
     padding: 0px;
     margin: 0px;
 }
-
-#file1 {
-    display: none;
-}
-
-#label1 {
-    height: 200px;
-    width: 450px;
-    border-radius: 6px;
-    border: 1px dashed #999
-}
-
-#label1:hover {
-    color: #de0611;
-    border: 1px dashed #de0611;
-}
